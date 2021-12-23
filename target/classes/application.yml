@@ -36,4 +36,4 @@ logging:
     springframework:
       web: debug
 my:
-  property: /Users/yanelamantovani/Documents/SpringBoot/juicioPorJurados/AgendaJJ/src/main/resources/static/upload/
+  property: /Users/yanelamantovani/Documents/SpringBoot/AgendaJJ/src/main/resources/static/upload/
