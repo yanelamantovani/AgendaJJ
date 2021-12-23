@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.egg.AgendaJJ.AgendaJjApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.298 s - in edu.egg.AgendaJJ.AgendaJjApplicationTests
