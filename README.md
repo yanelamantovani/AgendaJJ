@@ -32,7 +32,7 @@ En 10 provincias argentinas se desarrollan Juicios por Jurado y cualquiera de no
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  width="35px"height="35px"/> </a>
 <a href="https://www.canva.com/es_419/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="35px" height="35px"/> </a>  
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35px" height="35px"/> </a>
- <a href="https://clickup.com/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/desktop%20app%20-%20white%20rounded.svg" width="35px" height="35px"/> </a>
-    <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/thymeleaf.svg" width="35px" height="35px"/> </a>
-      <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/intellij.svg" width="35px" height="35px"/> </a>
+<a href="https://clickup.com/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/desktop%20app%20-%20white%20rounded.svg" width="35px" height="35px"/> </a>
+<a href="https://www.thymeleaf.org/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/thymeleaf.svg" width="35px" height="35px"/> </a>
+<a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/intellij.svg" width="35px" height="35px"/> </a>
 <p>
